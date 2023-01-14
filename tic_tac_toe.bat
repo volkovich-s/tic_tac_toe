@@ -1,0 +1,1 @@
+"binaries/lua54.exe" "lua/main.lua"

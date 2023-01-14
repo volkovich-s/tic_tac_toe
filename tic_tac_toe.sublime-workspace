@@ -1,0 +1,236 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"I",
+				"In"
+			],
+			[
+				"n",
+				"n_y"
+			],
+			[
+				"Ch",
+				"__CheckDiagonal1"
+			],
+			[
+				"re",
+				"repeat"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Source/Lua/tic_tac_toe"
+	],
+	"file_history":
+	[
+		"/D/Source/Lua/tic_tac_toe/lua/game/player.lua",
+		"/D/Source/Lua/tic_tac_toe/lua/game/game.lua",
+		"/D/Source/Lua/tic_tac_toe/lua/game/field.lua",
+		"/D/Source/Lua/tic_tac_toe/lua/game/base_player.lua",
+		"/D/Source/Lua/tic_tac_toe/lua/game/ai.lua",
+		"/D/Source/Lua/tic_tac_toe/lua/game/__game.lua",
+		"/D/Source/Lua/tic_tac_toe/lua/meta/type.lua",
+		"/D/Source/Lua/tic_tac_toe/lua/meta/meta.lua",
+		"/D/Source/Lua/tic_tac_toe/lua/meta/instance.lua",
+		"/D/Source/Lua/tic_tac_toe/lua/utils/utils.lua",
+		"/D/Source/Lua/tic_tac_toe/lua/utils/string_utils.lua",
+		"/D/Source/Lua/tic_tac_toe/lua/utils/text_utils.lua",
+		"/D/Source/Lua/tic_tac_toe/lua/utils/number_utils.lua",
+		"/D/Source/Lua/tic_tac_toe/lua/utils/io_utils.lua",
+		"/D/Source/Lua/tic_tac_toe/lua/main.lua",
+		"/D/Source/Lua/tic_tac_toe/lua/meta/__meta.lua",
+		"/D/Source/Lua/tic_tac_toe/tic_tac_toe.sublime-project",
+		"/D/Source/Legacy/Source/Lua/utils/table_utils.lua",
+		"/D/Source/Lua/tic_tac_toe/lua/utils/input_utils.lua",
+		"/C/Users/volko/Desktop/New Text Document.html",
+		"/D/Source/Elephant Games/PF9/exe/assets/levels/level3/rm_secretlab/mod_secretlab.xml",
+		"/D/Source/Elephant Games/PF9/exe/assets/interface/int_map_impl.xml",
+		"/D/Source/Elephant Games/PF9/exe/assets/strings.xml",
+		"/D/Source/Elephant Games/GT23/src/doc/ld_doc/Test3/ho_hoidentification1/mod_hoidentification1.lua",
+		"/D/Source/Elephant Games/GT23/src/doc/ld_doc/Test3/mg_mgdomino1/mod_mgdomino1.lua",
+		"/D/Source/Elephant Games/GT23/exe/assets/levels/level1/mod_level1.lua",
+		"/D/Source/Elephant Games/GT22/exe/assets/strings_ce.xml",
+		"/C/Users/volko/AppData/Roaming/Elephant Games/Grim Tales Dual Disposition CE/p_000001.json",
+		"/D/Source/Elephant Games/GT22/exe/assets/strings.xml",
+		"/D/Source/Elephant Games/GT22/src/doc/Lockit_GrimTales_HorizonOfWishes/guide.xml",
+		"/D/Source/Elephant Games/GT23/exe/assets/levels/level1/rm_policestation1/zz_officeequipment1/anims/anm_zz_officeequipment1_anim.xml",
+		"/D/Source/Elephant Games/GT23/src/doc/project_1.4.xml",
+		"/D/Source/Elephant Games/GT23/src/doc/ld_doc/Test3/zz2/mod_policestation1.lua",
+		"/D/Source/Elephant Games/GT23/exe/assets/levels/level1/rm_policestation1/zz_personalcorner1/anims/anm_zz_personalcorner1_cut.xml",
+		"/D/Source/Elephant Games/test/src/doc/test_project.xml",
+		"/D/Source/Elephant Games/test/exe/assets/levels/level1/rm_magicspring1/mod_magicspring1.lua",
+		"/D/Source/Elephant Games/test/exe/assets/levels/level1/rm_magicspring1/zz_overwhelmedspring1/anims/anm_zz_overwhelmedspring1_cut.xml",
+		"/D/Source/Elephant Games/test/src/doc/test.xml",
+		"/D/Source/Elephant Games/GT23/exe/assets/levels/level1/rm_magicspring1/__mod_magicspring1.lua",
+		"/D/Source/Elephant Games/GT23/exe/assets/levels/level1/rm_magicspring1/mod_magicspring1.lua",
+		"/D/Source/Elephant Games/GT23/exe/assets/levels/level1/rm_magicspring1/__mod_magicspring1.xml",
+		"/D/Source/Elephant Games/GT23/tool/notEditor/settings.xml",
+		"/C/Users/volko/Desktop/New folder/mod_magicspring1.xml",
+		"/D/Source/Elephant Games/GT23/exe/assets/levels/common/mod_subroom_impl.lua",
+		"/D/Source/Elephant Games/GT23/exe/assets/config.json",
+		"/D/Source/Elephant Games/GT23/exe/assets/strings.xml"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"    ",
+			"\t"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"  "
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": false,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.2
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "tic_tac_toe.sublime-project",
+	"replace":
+	{
+		"height": 71.2
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
